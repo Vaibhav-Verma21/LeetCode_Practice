@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3640-trionic-array-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3640-trionic-array-ii) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

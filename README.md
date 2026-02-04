@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

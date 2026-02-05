@@ -9,32 +9,18 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        stack<ListNode*> stackA, stackB;
-
-        while (headA) {
-            stackA.push(headA);
-            headA = headA->next;
+        if (!headA || !headB) {
+            return NULL;
         }
+        
+        ListNode *pA = headA;
+        ListNode *pB = headB;
+        
+        while (pA != pB) {
 
-        while (headB) {
-            stackB.push(headB);  
-            headB = headB->next;
+            pA = pA ? pA->next : headB;
+            pB = pB ? pB->next : headA;
         }
-
-        ListNode* intersect = nullptr;
-        while (!stackA.empty() && !stackB.empty()) {
-            ListNode* nodeA = stackA.top();
-            ListNode* nodeB = stackB.top();
-            stackA.pop();
-            stackB.pop();
-
-            if (nodeA == nodeB) {
-                intersect = nodeA;
-            } else {
-                break;
-            }
-        }
-
-        return intersect;
+        return pA;
     }
 };

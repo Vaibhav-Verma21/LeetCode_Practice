@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0148-sort-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -153,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0067-add-binary) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

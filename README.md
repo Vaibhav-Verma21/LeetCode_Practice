@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0110-balanced-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
@@ -221,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->

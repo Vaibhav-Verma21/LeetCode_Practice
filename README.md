@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0190-reverse-bits) |
 ## Data Stream
 |  |
 | ------- |

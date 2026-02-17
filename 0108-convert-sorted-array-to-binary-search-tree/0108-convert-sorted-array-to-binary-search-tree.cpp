@@ -17,7 +17,7 @@ public:
 private:
     TreeNode* build(vector<int>& nums, int l,int r){
         if(l>r) return nullptr;
-        const int m=(l+r)/2;
+        int m=l+(r-l)/2;
         return new TreeNode(nums[m],build(nums,l,m-1),build(nums,m+1,r));
     }
 };

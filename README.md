@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0401-binary-watch) |
 ## Data Stream
 |  |
 | ------- |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->

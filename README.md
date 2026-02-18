@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1929-concatenation-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3634-minimum-removals-to-balance-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |

@@ -6,7 +6,7 @@ class Solution {
 
     for (int i = 0, j = 0; j < s.length(); ++j) {
       count += s[j] == '1' ? 1 : -1;
-      if (count == 0) {  // Find a special string.
+      if (count == 0) {
         const string& inner = s.substr(i + 1, j - i - 1);
         specials.push_back('1' + makeLargestSpecial(inner) + '0');
         i = j + 1;

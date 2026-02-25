@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0547-number-of-provinces) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -341,5 +345,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0134-gas-station) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search Tree
 |  |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Ordered Set
 |  |
 | ------- |

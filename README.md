@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sorting
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -374,11 +376,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0547-number-of-provinces) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0547-number-of-provinces) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -390,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->

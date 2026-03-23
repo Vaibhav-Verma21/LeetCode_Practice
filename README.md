@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1929-concatenation-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0799-champagne-tower](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0799-champagne-tower) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3643-flip-square-submatrix-vertically) |

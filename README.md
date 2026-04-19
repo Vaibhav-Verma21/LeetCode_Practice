@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |

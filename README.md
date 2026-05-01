@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
+| [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1622-fancy-sequence](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |

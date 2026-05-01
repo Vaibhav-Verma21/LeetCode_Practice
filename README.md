@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3640-trionic-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Ordered Set

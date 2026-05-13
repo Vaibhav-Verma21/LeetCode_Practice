@@ -1,24 +1,39 @@
 class Solution {
- public:
-  int minMoves(vector<int>& nums, int limit) {
-    const int n = nums.size();
-    int ans = n;
-    vector<int> delta(limit * 2 + 2);
+public:
+    int minMoves(vector<int>& nums, int limit) {
+        int n = nums.size();
 
-    for (int i = 0; i < n / 2; ++i) {
-      const int a = nums[i];
-      const int b = nums[n - 1 - i];
-      --delta[min(a, b) + 1];
-      --delta[a + b];
-      ++delta[a + b + 1];
-      ++delta[max(a, b) + limit + 1];
+        vector<int> diff(2 * limit + 2, 0);
+
+        for (int i = 0; i < n / 2; i++) {
+
+            int a = nums[i];
+            int b = nums[n - 1 - i];
+
+            int low = min(a, b);
+            int high = max(a, b);
+
+            // Assume 2 moves for all sums
+            diff[2] += 2;
+            diff[2 * limit + 1] -= 2;
+
+            // 1 move range
+            diff[low + 1] -= 1;
+            diff[high + limit + 1] += 1;
+
+            // 0 move at exact sum
+            diff[low + high] -= 1;
+            diff[low + high + 1] += 1;
+        }
+
+        int ans = INT_MAX;
+        int cur = 0;
+
+        for (int sum = 2; sum <= 2 * limit; sum++) {
+            cur += diff[sum];
+            ans = min(ans, cur);
+        }
+
+        return ans;
     }
-
-    for (int i = 2, moves = n; i <= limit * 2; ++i) {
-      moves += delta[i];
-      ans = min(ans, moves);
-    }
-
-    return ans;
-  }
 };

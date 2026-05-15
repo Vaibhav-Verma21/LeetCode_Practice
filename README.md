@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
 | [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |

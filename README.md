@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1306-jump-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |

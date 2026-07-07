@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0799-champagne-tower) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0693-binary-number-with-alternating-bits) |

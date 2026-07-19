@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2751-robot-collisions) |
 ## Tree
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0134-gas-station) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |

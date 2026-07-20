@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1345-jump-game-iv) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |

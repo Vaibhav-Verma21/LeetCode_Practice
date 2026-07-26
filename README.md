@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0735-asteroid-collision) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1622-fancy-sequence) |

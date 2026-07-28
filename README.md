@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1340-jump-game-v) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0239-sliding-window-maximum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -551,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0788-rotated-digits) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1622-fancy-sequence](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |

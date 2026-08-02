@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1622-fancy-sequence](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -728,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

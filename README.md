@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1871-jump-game-vii) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -735,4 +738,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

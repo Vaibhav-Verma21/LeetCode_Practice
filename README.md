@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
+| [3731-find-missing-elements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |

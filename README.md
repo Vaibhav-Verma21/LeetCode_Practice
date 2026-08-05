@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Backtracking
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0547-number-of-provinces) |
+| [3310-remove-methods-from-project](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |

@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3731-find-missing-elements) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Data Stream
 |  |
 | ------- |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2573-find-the-string-with-lcp) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2833-furthest-point-from-origin) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -769,14 +773,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

@@ -1,19 +1,18 @@
 class Solution {
- public:
-  vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
-    const int n = A.size();
-    int prefixCommon = 0;
-    vector<int> ans;
-    vector<int> count(n + 1);
-
-    for (int i = 0; i < A.size(); ++i) {
-      if (++count[A[i]] == 2)
-        ++prefixCommon;
-      if (++count[B[i]] == 2)
-        ++prefixCommon;
-      ans.push_back(prefixCommon);
+public:
+    vector<int> findThePrefixCommonArray(vector<int>& A, vector<int>& B) {
+        unordered_map<int, int> mp;
+        vector<int> ans;
+        int common = 0;
+        for (int i = 0; i < A.size(); i++) {
+            mp[A[i]]++;
+            if (mp[A[i]] == 2)
+                common++;
+            mp[B[i]]++;
+            if (mp[B[i]] == 2)
+                common++;
+            ans.push_back(common);
+        }
+        return ans;
     }
-
-    return ans;
-  }
 };

@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1260-shift-2d-grid) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0761-special-binary-string) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1340-jump-game-v](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1340-jump-game-v) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/2540-minimum-common-value) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0134-gas-station) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0881-boats-to-save-people](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1386-cinema-seat-allocation) |
@@ -830,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/1934-confirmation-rate) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3488-closest-equal-element-queries) |
+| [3524-find-x-value-of-array-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3524-find-x-value-of-array-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3640-trionic-array-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3640-trionic-array-ii) |
 | [3660-jump-game-ix](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |

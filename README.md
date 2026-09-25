@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |

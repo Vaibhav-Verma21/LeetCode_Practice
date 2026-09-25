@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0486-predict-the-winner) |

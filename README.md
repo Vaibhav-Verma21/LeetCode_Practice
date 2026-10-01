@@ -896,4 +896,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vaibhav-Verma21/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
